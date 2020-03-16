@@ -2309,6 +2309,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 
 .site-footer {
 	border-top: 1px solid #eee;
+	background-color: lightgray;
 }
 
 .site-footer .wrap {
